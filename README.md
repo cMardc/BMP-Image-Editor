@@ -20,6 +20,7 @@ This is a simple BMP image editor written in C++ that utilizes the CImg.h librar
 Before using the BMP image editor, you need to ensure that you have the following:
 
 - CImg.h Library: The editor relies on the CImg.h library for image processing. Make sure you have it installed or included in your project.
+- nlohmann/json.hpp Library: The JSON library for JSON data read/writing. It's used to get key values, colors and paths from config files.
 
 ## Usage
 

@@ -1,0 +1,23 @@
+{
+    "colors": {
+        "red": 1,
+        "orange": 2,
+        "yellow": 3,
+        "green": 4,
+        "cyan": 5,
+        "blue": 6,
+        "purple": 7,
+        "gray": 8,
+        "white": 9,
+        "black": 0
+    },
+    "thickness": {
+        "increase": "D",
+        "decrease": "A"
+    },
+    "general": {
+        "exit_without_saving": "Q",
+        "exit_and_save": "X",
+        "undo": "Z"
+    }
+}
